@@ -1,0 +1,1 @@
+worked through chapters found here https://python.dunderdata.com/user/lesliedoe/tree/data#assignments
